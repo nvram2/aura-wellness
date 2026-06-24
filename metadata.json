@@ -1,6 +1,5 @@
 {
   "name": "Aura Wellness",
   "description": "A high-converting landing page for Aura Wellness, a global retreat organizer offering bespoke wellness retreats.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "requestFramePermissions": []
 }

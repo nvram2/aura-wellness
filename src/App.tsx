@@ -15,6 +15,9 @@ import Reviews from './components/Reviews';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
+import FAQ from './components/FAQ';
+import Newsletter from './components/Newsletter';
+
 export default function App() {
   return (
     <div className="min-h-screen bg-dark-bg font-sans text-white selection:bg-white/20 selection:text-white">
@@ -28,7 +31,9 @@ export default function App() {
         <Locations />
         <Coaches />
         <Reviews />
+        <FAQ />
         <Contact />
+        <Newsletter />
       </main>
       <Footer />
     </div>
